@@ -306,12 +306,12 @@ class MyMainWindow(QMainWindow, jzltoolkit.Ui_MainWindow):
             QApplication.quit()
 
     def open_fb(self):
-        QDesktopServices.openUrl(QUrl("https://www.facebook.com/TUPCaviteCampus"))
+        QDesktopServices.openUrl(QUrl("https://www.facebook.com/csl.andrei"))
 
     def open_gmail(self):
         QDesktopServices.openUrl(
             QUrl(
-                "https://mail.google.com/mail/u/0/#inbox?compose=VpCqJTCQBHQzDfJqlNJZhdLPZvkklGlfwJVTGsTDlSNHZqsHGWmjsVpCNQrRmHfWfLRwrFq"
+                "https://mail.google.com/mail/?view=cm&fs=1&to=jelomarkandrei@gmail.com"
             )
         )
 
