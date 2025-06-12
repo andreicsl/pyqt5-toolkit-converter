@@ -56,8 +56,8 @@ Here are some screenshots showcasing the application's functionality and interfa
 1. **Clone the Repository**
 
 ```bash
-git clone https://github.com/andreicsl/python-gui-converter.git
-cd your-repo-name
+git clone https://github.com/andreicsl/pyqt5-toolkit-converter.git
+cd pyqt5-toolkit-converter/project
 ```
 
 2. **Install Requirements**
