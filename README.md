@@ -26,19 +26,19 @@ Here are some screenshots showcasing the application's functionality and interfa
 
 ### 🧮 Main Converter Window (Weight Conversion)
 
-![Main Window](images/screenshot_1.png)
+![Main Window](project/images/screenshot_1.png)
 
 ### ⚖️ Length Conversion
 
-![Conversion Tab](images/screenshot_2.png)
+![Conversion Tab](project/images/screenshot_2.png)
 
 ### 🧠 BMI Calculator
 
-![BMI Calculator](images/screenshot_4.png)
+![BMI Calculator](project/images/screenshot_4.png)
 
 ### 🆘 Help Page
 
-![Help Page](images/screenshot_3.png)
+![Help Page](project/images/screenshot_3.png)
 
 ---
 
