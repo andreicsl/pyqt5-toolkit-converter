@@ -10,35 +10,20 @@ This project showcases GUI development using **PyQt5 Designer** and Python logic
 
 ---
 
-## 📦 Features
+## Features
 
-- 🧮 Real-time unit conversion
-- 📏 Converts both metric and imperial units
-- ⚖️ BMI calculator with category interpretation (Underweight, Normal, Overweight, etc.)
-- 💻 Simple and responsive GUI interface
-- 🧠 Error handling for invalid inputs
+-  Real-time unit conversion
+-  Converts both metric and imperial units
+-  BMI calculator with category interpretation (Underweight, Normal, Overweight, etc.)
+- Simple and responsive GUI interface
+- Error handling for invalid inputs
 
 ---
 
-## 📸 Screenshots
 
-Here are some screenshots showcasing the application's functionality and interface:
-
-### 🧮 Main Converter Window (Weight Conversion)
+### Main Converter Window (Weight Conversion)
 
 ![Main Window](project/images/screenshot_1.png)
-
-### ⚖️ Length Conversion
-
-![Conversion Tab](project/images/screenshot_2.png)
-
-### 🧠 BMI Calculator
-
-![BMI Calculator](project/images/screenshot_4.png)
-
-### 🆘 Help Page
-
-![Help Page](project/images/screenshot_3.png)
 
 ---
 
@@ -51,7 +36,7 @@ Here are some screenshots showcasing the application's functionality and interfa
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 1. **Clone the Repository**
 
@@ -74,7 +59,7 @@ python main.py
 
 ---
 
-## 📚 What I Learned
+## What I Learned
 
 - Designing user interfaces with **Qt Designer** and integrating it into Python
 - Handling **unit conversion logic** efficiently
@@ -85,7 +70,7 @@ python main.py
 
 ---
 
-## 📄 License
+## License
 
 This project is open-source and available under the [MIT License](LICENSE).
 
