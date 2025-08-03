@@ -27,7 +27,7 @@ This project showcases GUI development using **PyQt5 Designer** and Python logic
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - Python 3
 - PyQt5 (with Qt Designer)
