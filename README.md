@@ -75,8 +75,3 @@ python main.py
 This project is open-source and available under the [MIT License](LICENSE).
 
 ---
-
-## Author
-
-Created by [@andreicsl](https://github.com/andreicsl)
-For inquiries or collaborations, reach out via [jelomarkandrei@gmail.com] or check out my other projects on [GitHub](https://github.com/andreicsl).
