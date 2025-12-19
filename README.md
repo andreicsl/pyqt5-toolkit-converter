@@ -31,7 +31,6 @@ This project showcases GUI development using **PyQt5 Designer** and Python logic
 
 - Python 3
 - PyQt5 (with Qt Designer)
-- Object-Oriented Programming (OOP) principles
 - Signal-slot mechanism in Qt for responsive UI
 
 ---
@@ -65,8 +64,6 @@ python main.py
 - Handling **unit conversion logic** efficiently
 - Implementing **BMI formulas** and basic health indicators
 - Using **PyQt5 widgets** like combo boxes, input fields, labels, and buttons
-- Managing application flow using **event-driven programming**
-- Structuring a Python project with clear separation between UI and logic
 
 ---
 
