@@ -3100,7 +3100,7 @@ class Ui_MainWindow(object):
         self.prev_4.setText(_translate("MainWindow", "Previous"))
 
 
-import my_res
+import resources.my_res
 
 
 if __name__ == "__main__":

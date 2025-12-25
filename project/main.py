@@ -11,15 +11,15 @@ from PyQt5.QtGui import QDoubleValidator, QIcon, QFont, QDesktopServices, QPixma
 from PyQt5.uic import loadUi
 
 import sys
-import jzltoolkit
-from weight_conversion import WeightConverter
-from length_conversion import LengthConverter
-from bmi_calculation import calculate_bmi
-from sidebar import Sidebar
-from button_style import style1, style2
+from ui.jzltoolkit import Ui_MainWindow
+from core.weight_conversion import WeightConverter
+from core.length_conversion import LengthConverter
+from core.bmi_calculation import calculate_bmi
+from components.sidebar import Sidebar
+from ui.styles.button_style import style1, style2
 
 
-class MyMainWindow(QMainWindow, jzltoolkit.Ui_MainWindow):
+class MyMainWindow(QMainWindow, Ui_MainWindow):
     def __init__(self, parent=None):
         super(MyMainWindow, self).__init__(parent)
         self.setupUi(self)
@@ -306,7 +306,7 @@ class MyMainWindow(QMainWindow, jzltoolkit.Ui_MainWindow):
             QApplication.quit()
 
     def open_fb(self):
-        QDesktopServices.openUrl(QUrl("https://www.facebook.com/csl.andrei"))
+        QDesktopServices.openUrl(QUrl("https://www.facebook.com/jzl.andrei"))
 
     def open_gmail(self):
         QDesktopServices.openUrl(
