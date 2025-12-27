@@ -23,7 +23,7 @@ This project showcases GUI development using **PyQt5 Designer** and Python logic
 
 ### Main Converter Window (Weight Conversion)
 
-![Main Window](project/images/screenshot_1.png)
+![Main Window](project/resources/images/screenshot_1.png)
 
 ---
 
